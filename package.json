@@ -1,6 +1,6 @@
 {
   "name": "exclude-member",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JsDoc Plugin to exlude member category.",
   "keywords": [
     "jsdoc",
@@ -15,7 +15,7 @@
   },
   "license": "MIT",
   "author": "Yongsik Yun <comnori@gmail.com>",
-  "type": "module",
+  "type": "commonjs",
   "exports": {
     "./*": {
       "import": "./*.js"
