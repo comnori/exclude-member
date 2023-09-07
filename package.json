@@ -1,6 +1,6 @@
 {
   "name": "exclude-member",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "JsDoc Plugin to exlude member category.",
   "keywords": [
     "jsdoc",
