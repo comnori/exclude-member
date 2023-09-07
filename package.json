@@ -1,0 +1,28 @@
+{
+  "name": "exclude-member",
+  "version": "0.0.1",
+  "description": "JsDoc Plugin to exlude member category.",
+  "keywords": [
+    "jsdoc",
+    "plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/comnori/exclude-member/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comnori/exclude-member"
+  },
+  "license": "MIT",
+  "author": "Yongsik Yun <comnori@gmail.com>",
+  "type": "module",
+  "exports": {
+    "./*": {
+      "import": "./*.js"
+    }
+  },
+  "main": "exclude.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}
