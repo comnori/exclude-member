@@ -8,8 +8,16 @@
 
 ## How to install
 
+### NPM
+
 ```
 npm install exclude-member --save-dev
+```
+
+### Yarn
+
+```
+yarn add --dev exclude-member
 ```
 
 ## Usage
